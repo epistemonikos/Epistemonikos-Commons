@@ -14,7 +14,7 @@
    id="svg2985"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="stamp_organization.svg">
+   sodipodi:docname="stamp_organization_22x56mm.svg">
   <defs
      id="defs2987" />
   <sodipodi:namedview
@@ -26,14 +26,14 @@
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
      inkscape:cx="106.31319"
-     inkscape:cy="75.911645"
+     inkscape:cy="25.404018"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1032"
+     inkscape:window-width="1280"
+     inkscape:window-height="752"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="cm"
      showguides="true"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -77,43 +77,39 @@
          d="m -249.28572,142.14286 c 52.80335,-12.26492 62.28562,-18.14334 103.92858,-40 10.92868,35.64334 43.04543,169.2536 36.78571,195.35714 -26.41567,43.57829 -49.91402,52.73792 -72.14286,47.5 -14.37169,0.11923 -81.13112,-23.35885 -86.07142,-33.57143 -7.08316,-3.78401 11.83951,-127.0208 17.49999,-169.28571 z"
          style="fill:#00a0d0;fill-opacity:1;stroke:none" />
     </g>
-    <g
-       id="g4637"
-       transform="translate(0.2220848,2.3709551)">
-      <text
-         sodipodi:linespacing="125%"
-         id="text4591"
-         y="449.957"
-         x="72.205437"
-         style="font-size:23px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00a0d0;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica CY;-inkscape-font-specification:Helvetica CY"
-           y="449.957"
-           x="72.205437"
-           id="tspan4593"
-           sodipodi:role="line">Epistemonikos</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00a0d0;fill-opacity:1;stroke:none;font-family:Helvetica CY;-inkscape-font-specification:Helvetica CY"
-         x="102.63879"
-         y="483.81738"
-         id="text4618"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan4620"
-           x="102.63879"
-           y="483.81738">99.999.999-9</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text4633"
-         y="469.22263"
-         x="75.133659"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00a0d0;fill-opacity:1;stroke:none;font-family:Helvetica CY;-inkscape-font-specification:Helvetica CY"
-         xml:space="preserve"><tspan
-           y="469.22263"
-           x="75.133659"
-           id="tspan4635"
-           sodipodi:role="line">Asoc. sin fines de lucro</tspan></text>
-    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:23px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00a0d0;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+       x="72.427521"
+       y="452.32794"
+       id="text4591"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4593"
+         x="72.427521"
+         y="452.32794"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica CY;-inkscape-font-specification:Helvetica CY">Epistemonikos</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4618"
+       y="486.18832"
+       x="102.85135"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00a0d0;fill-opacity:1;stroke:none;font-family:Helvetica CY;-inkscape-font-specification:Helvetica CY"
+       xml:space="preserve"><tspan
+         y="486.18832"
+         x="102.85135"
+         id="tspan4620"
+         sodipodi:role="line">65.071.808-9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00a0d0;fill-opacity:1;stroke:none;font-family:Helvetica CY;-inkscape-font-specification:Helvetica CY"
+       x="75.355743"
+       y="471.59357"
+       id="text4633"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4635"
+         x="75.355743"
+         y="471.59357">Asoc. sin fines de lucro</tspan></text>
   </g>
 </svg>
