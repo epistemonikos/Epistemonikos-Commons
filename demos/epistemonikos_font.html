@@ -1,6 +1,15 @@
 <html>
 <head>
 	<title>Epistemonikos Font Demo</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script type="text/javascript" src="https://konami-js.googlecode.com/files/konami.1.3.3.js"></script>
+	<script type="text/javascript">
+	var easter_egg = new Konami();
+	easter_egg.code = function() {
+		$('.font-container').css('display', 'inline-block');
+	}
+	easter_egg.load();
+	</script>
 	<style type="text/css">
 	@font-face {
 		font-family: 'Epistemonikos';
